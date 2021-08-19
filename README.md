@@ -7,6 +7,7 @@
   <ul>
     <li>Introduction to JFrame GUI</li>
     <li>Program optimization with 100,000s of objects</li>
+    <li>Creating, collecting and displaying data</li>
     <li>Re-reading and implementing new code months after working on project</li>
     <li> Working with class objects and two-dimensional object arrays
   </ul>
